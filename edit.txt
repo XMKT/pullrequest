@@ -1,2 +1,2 @@
-name:
-second_name:
+name: Алексей
+second_name: Безруков
